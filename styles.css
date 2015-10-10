@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    margin-bottom: 30px
+}
+h4 {
+    text-align: center;
+}
+.form-control {
+    background-color: yellow;
+}
+.btn {
+    background-color: yellow;
+}
+form {
+    border: 5px solid black;
+    padding: 20px;
+    margin-top: 20px;
+}
